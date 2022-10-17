@@ -1,0 +1,14 @@
+D:\D드라이브저장\미래를 향한 발걸음\공부\코테\BaekjoonCs\obj\Debug\netcoreapp3.1\BaekjoonCs.csproj.AssemblyReference.cache
+D:\D드라이브저장\미래를 향한 발걸음\공부\코테\BaekjoonCs\obj\Debug\netcoreapp3.1\BaekjoonCs.GeneratedMSBuildEditorConfig.editorconfig
+D:\D드라이브저장\미래를 향한 발걸음\공부\코테\BaekjoonCs\obj\Debug\netcoreapp3.1\BaekjoonCs.AssemblyInfoInputs.cache
+D:\D드라이브저장\미래를 향한 발걸음\공부\코테\BaekjoonCs\obj\Debug\netcoreapp3.1\BaekjoonCs.AssemblyInfo.cs
+D:\D드라이브저장\미래를 향한 발걸음\공부\코테\BaekjoonCs\obj\Debug\netcoreapp3.1\BaekjoonCs.csproj.CoreCompileInputs.cache
+D:\D드라이브저장\미래를 향한 발걸음\공부\코테\BaekjoonCs\bin\Debug\netcoreapp3.1\BaekjoonCs.exe
+D:\D드라이브저장\미래를 향한 발걸음\공부\코테\BaekjoonCs\bin\Debug\netcoreapp3.1\BaekjoonCs.deps.json
+D:\D드라이브저장\미래를 향한 발걸음\공부\코테\BaekjoonCs\bin\Debug\netcoreapp3.1\BaekjoonCs.runtimeconfig.json
+D:\D드라이브저장\미래를 향한 발걸음\공부\코테\BaekjoonCs\bin\Debug\netcoreapp3.1\BaekjoonCs.runtimeconfig.dev.json
+D:\D드라이브저장\미래를 향한 발걸음\공부\코테\BaekjoonCs\bin\Debug\netcoreapp3.1\BaekjoonCs.dll
+D:\D드라이브저장\미래를 향한 발걸음\공부\코테\BaekjoonCs\bin\Debug\netcoreapp3.1\BaekjoonCs.pdb
+D:\D드라이브저장\미래를 향한 발걸음\공부\코테\BaekjoonCs\obj\Debug\netcoreapp3.1\BaekjoonCs.dll
+D:\D드라이브저장\미래를 향한 발걸음\공부\코테\BaekjoonCs\obj\Debug\netcoreapp3.1\BaekjoonCs.pdb
+D:\D드라이브저장\미래를 향한 발걸음\공부\코테\BaekjoonCs\obj\Debug\netcoreapp3.1\BaekjoonCs.genruntimeconfig.cache
