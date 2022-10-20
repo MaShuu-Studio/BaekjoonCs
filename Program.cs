@@ -1,6 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace BaekjoonCs
 {
@@ -8,7 +6,7 @@ namespace BaekjoonCs
     {
         static void Main(string[] args)
         {
-            _11723.Solution();
+            _3085.Solution();
         }
     }
 }
