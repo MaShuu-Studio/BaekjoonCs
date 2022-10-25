@@ -4,12 +4,12 @@ using System.Text;
 using System.IO;
 
 namespace BaekjoonCs
-{
+{    
     class Program
     {
         static void Main(string[] args)
         {
-            _15657.Solution();
+            _14889.Solution();
         }
     }
 }
