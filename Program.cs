@@ -5,11 +5,12 @@ using System.IO;
 
 namespace BaekjoonCs
 {
+
     class Program
     {
         static void Main(string[] args)
         {
-            _11727.Solution();
+            _15990.Solution();
         }
     }
 }
