@@ -78,11 +78,5 @@ namespace BaekjoonCs
             sr.Close();
         }
     }
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            _6064.Solution();
-        }
-    }
 }
+    
