@@ -9,7 +9,7 @@ namespace BaekjoonCs
     {
         static void Main(string[] args)
         {
-            _1932.Solution();
+            _2133.Solution();
         }
     }
 }
